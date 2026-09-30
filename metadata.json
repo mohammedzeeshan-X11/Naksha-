@@ -1,0 +1,6 @@
+{
+  "name": "NAKSHA GeoAI Land Record Harmonization Platform",
+  "description": "AI-powered Geospatial Integration & Harmonization Platform for Urban Land Record Management under the NAKSHA Programme (Ministry of Rural Development / DoLR - SIH PS ID: 26013).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
